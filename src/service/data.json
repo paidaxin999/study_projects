@@ -1,0 +1,611 @@
+{
+  "vipList": [
+      {
+        "cardId": 1001,
+        "name": "易洋",
+        "birthday": "2019-02-21",
+        "phone": "14643213584",
+        "money": 340.8,
+        "integral": 29,
+        "paytype": "现金",
+        "address": "香港特别行政区 新界 大埔区"
+      },
+      {
+        "cardId": 1002,
+        "name": "魏磊",
+        "birthday": "1996-02-05",
+        "phone": "13599310772",
+        "money": 990.3,
+        "integral": 238,
+        "paytype": "微信",
+        "address": "浙江省 丽水市 云和县"
+      },
+      {
+        "cardId": 1003,
+        "name": "田秀英",
+        "birthday": "1984-04-15",
+        "phone": "13165345226",
+        "money": 728.5,
+        "integral": 132,
+        "paytype": "银行卡",
+        "address": "贵州省 黔南布依族苗族自治州 瓮安县"
+      },
+      {
+        "cardId": 1004,
+        "name": "崔明",
+        "birthday": "1989-06-24",
+        "phone": "13225685711",
+        "money": 487.3,
+        "integral": 122,
+        "paytype": "微信",
+        "address": "河北省 沧州市 盐山县"
+      },
+      {
+        "cardId": 1005,
+        "name": "吕平",
+        "birthday": "1970-11-10",
+        "phone": "13720264242",
+        "money": 15.7,
+        "integral": 394,
+        "paytype": "支付宝",
+        "address": "上海 上海市 松江区"
+      },
+      {
+        "cardId": 1006,
+        "name": "于军",
+        "birthday": "2014-11-01",
+        "phone": "14201642438",
+        "money": 725.83,
+        "integral": 3,
+        "paytype": "现金",
+        "address": "宁夏回族自治区 固原市 彭阳县"
+      },
+      {
+        "cardId": 1007,
+        "name": "白静",
+        "birthday": "1983-05-01",
+        "phone": "13897491851",
+        "money": 972.13,
+        "integral": 445,
+        "paytype": "支付宝",
+        "address": "内蒙古自治区 巴彦淖尔市 五原县"
+      },
+      {
+        "cardId": 1008,
+        "name": "吕平",
+        "birthday": "1973-06-15",
+        "phone": "14345639268",
+        "money": 422.5,
+        "integral": 392,
+        "paytype": "支付宝",
+        "address": "江西省 南昌市 安义县"
+      },
+      {
+        "cardId": 1009,
+        "name": "胡超",
+        "birthday": "1995-12-23",
+        "phone": "13760375449",
+        "money": 329.7,
+        "integral": 176,
+        "paytype": "微信",
+        "address": "江苏省 徐州市 泉山区"
+      },
+      {
+        "cardId": 1010,
+        "name": "熊秀兰",
+        "birthday": "1981-11-01",
+        "phone": "14609641494",
+        "money": 280.1,
+        "integral": 310,
+        "paytype": "支付宝",
+        "address": "山西省 大同市 城区"
+      },
+      {
+        "cardId": 1011,
+        "name": "郑秀英",
+        "birthday": "1986-05-17",
+        "phone": "13388362111",
+        "money": 962.2,
+        "integral": 134,
+        "paytype": "支付宝",
+        "address": "天津 天津市 北辰区"
+      },
+      {
+        "cardId": 1012,
+        "name": "武洋",
+        "birthday": "2010-01-09",
+        "phone": "14586484405",
+        "money": 528.37,
+        "integral": 252,
+        "paytype": "微信",
+        "address": "山西省 吕梁市 文水县"
+      },
+      {
+        "cardId": 1013,
+        "name": "董静",
+        "birthday": "1993-10-26",
+        "phone": "12824297231",
+        "money": 16.13,
+        "integral": 413,
+        "paytype": "现金",
+        "address": "福建省 泉州市 德化县"
+      },
+      {
+        "cardId": 1014,
+        "name": "江磊",
+        "birthday": "1971-10-21",
+        "phone": "14837822831",
+        "money": 446.8,
+        "integral": 346,
+        "paytype": "现金",
+        "address": "陕西省 西安市 户县"
+      },
+      {
+        "cardId": 1015,
+        "name": "龙勇",
+        "birthday": "2013-09-12",
+        "phone": "15355531672",
+        "money": 963.3,
+        "integral": 434,
+        "paytype": "现金",
+        "address": "海南省 三亚市 -"
+      },
+      {
+        "cardId": 1016,
+        "name": "邓秀兰",
+        "birthday": "2011-09-16",
+        "phone": "15637951323",
+        "money": 505.4,
+        "integral": 147,
+        "paytype": "支付宝",
+        "address": "甘肃省 金昌市 其它区"
+      },
+      {
+        "cardId": 1017,
+        "name": "卢明",
+        "birthday": "1990-11-01",
+        "phone": "12567777173",
+        "money": 269.18,
+        "integral": 79,
+        "paytype": "支付宝",
+        "address": "浙江省 嘉兴市 平湖市"
+      },
+      {
+        "cardId": 1018,
+        "name": "侯杰",
+        "birthday": "1972-10-02",
+        "phone": "15488243324",
+        "money": 378.63,
+        "integral": 263,
+        "paytype": "银行卡",
+        "address": "内蒙古自治区 呼伦贝尔市 鄂温克族自治旗"
+      },
+      {
+        "cardId": 1019,
+        "name": "姚霞",
+        "birthday": "2016-12-07",
+        "phone": "13211754218",
+        "money": 570.86,
+        "integral": 144,
+        "paytype": "现金",
+        "address": "浙江省 舟山市 其它区"
+      },
+      {
+        "cardId": 1020,
+        "name": "贺强",
+        "birthday": "2000-01-03",
+        "phone": "13737517624",
+        "money": 295.43,
+        "integral": 219,
+        "paytype": "现金",
+        "address": "宁夏回族自治区 固原市 隆德县"
+      }
+    ],
+  
+  "supplier": [
+      {
+        "company": "月提能合确",
+        "name": "邹娟",
+        "phone": "14785257677",
+        "remarks": "类正里便动毛下属石以。"
+      },
+      {
+        "company": "是等安决叫",
+        "name": "郑勇",
+        "phone": "14449614789",
+        "remarks": "解响条各办领解快进认。"
+      },
+      {
+        "company": "却山法每称",
+        "name": "武敏",
+        "phone": "15881601357",
+        "remarks": "会里如快支包适原红由。"
+      },
+      {
+        "company": "着感才去级",
+        "name": "何娜",
+        "phone": "14835862381",
+        "remarks": "但容界条资求科会重好。"
+      },
+      {
+        "company": "住院基且头",
+        "name": "锺秀兰",
+        "phone": "12586204047",
+        "remarks": "基面劳本着无打农务以。"
+      },
+      {
+        "company": "积政式人天",
+        "name": "邵平",
+        "phone": "13757188342",
+        "remarks": "计者油府市织斯图交高。"
+      },
+      {
+        "company": "眼始时义数",
+        "name": "薛秀英",
+        "phone": "15135503611",
+        "remarks": "期真族性连风书可农难。"
+      },
+      {
+        "company": "布半么门米",
+        "name": "谭超",
+        "phone": "15188422459",
+        "remarks": "期其战形准还员务验及。"
+      },
+      {
+        "company": "空信员种合",
+        "name": "赵静",
+        "phone": "14242594141",
+        "remarks": "号称务素记去电要张明。"
+      },
+      {
+        "company": "或别性通器",
+        "name": "杜勇",
+        "phone": "12210287432",
+        "remarks": "与区象重认眼就素生划。"
+      }
+    ],
+	"goods": [
+	    {
+	      "name": "火龙果",
+	      "code": 3501,
+	      "specs": "156g",
+	      "retail_price": 75.12,
+	      "buy_price": 60.78,
+	      "num": 432,
+	      "company": 9
+	    },
+	    {
+	      "name": "杏子",
+	      "code": 3502,
+	      "specs": "300g",
+	      "retail_price": 60.65,
+	      "buy_price": 71.34,
+	      "num": 423,
+	      "company": 7
+	    },
+	    {
+	      "name": "西瓜",
+	      "code": 3503,
+	      "specs": "150g",
+	      "retail_price": 72.27,
+	      "buy_price": 34.89,
+	      "num": 217,
+	      "company": 8
+	    },
+	    {
+	      "name": "杏子",
+	      "code": 3504,
+	      "specs": "2kg",
+	      "retail_price": 50.08,
+	      "buy_price": 65.62,
+	      "num": 483,
+	      "company": 5
+	    },
+	    {
+	      "name": "杏子",
+	      "code": 3505,
+	      "specs": "150g",
+	      "retail_price": 76.77,
+	      "buy_price": 82.08,
+	      "num": 480,
+	      "company": 6
+	    },
+	    {
+	      "name": "奇异果",
+	      "code": 3506,
+	      "specs": "150g",
+	      "retail_price": 28.4,
+	      "buy_price": 9.46,
+	      "num": 420,
+	      "company": 9
+	    },
+	    {
+	      "name": "火龙果",
+	      "code": 3507,
+	      "specs": "150g",
+	      "retail_price": 100.6,
+	      "buy_price": 38.7,
+	      "num": 372,
+	      "company": 8
+	    },
+	    {
+	      "name": "杏子",
+	      "code": 3508,
+	      "specs": "156g",
+	      "retail_price": 27.44,
+	      "buy_price": 55.8,
+	      "num": 356,
+	      "company": 4
+	    },
+	    {
+	      "name": "哈密瓜",
+	      "code": 3509,
+	      "specs": "300g",
+	      "retail_price": 36.8,
+	      "buy_price": 57.28,
+	      "num": 19,
+	      "company": 7
+	    },
+	    {
+	      "name": "西瓜",
+	      "code": 3510,
+	      "specs": "45kg",
+	      "retail_price": 78.08,
+	      "buy_price": 83.6,
+	      "num": 333,
+	      "company": 5
+	    },
+	    {
+	      "name": "雪梨",
+	      "code": 3511,
+	      "specs": "156g",
+	      "retail_price": 92.65,
+	      "buy_price": 50.4,
+	      "num": 326,
+	      "company": 3
+	    },
+	    {
+	      "name": "西瓜",
+	      "code": 3512,
+	      "specs": "2kg",
+	      "retail_price": 73.16,
+	      "buy_price": 52.5,
+	      "num": 295,
+	      "company": 4
+	    },
+	    {
+	      "name": "西瓜",
+	      "code": 3513,
+	      "specs": "156g",
+	      "retail_price": 23.9,
+	      "buy_price": 93.74,
+	      "num": 144,
+	      "company": 9
+	    },
+	    {
+	      "name": "苹果",
+	      "code": 3514,
+	      "specs": "45kg",
+	      "retail_price": 14.7,
+	      "buy_price": 70.75,
+	      "num": 121,
+	      "company": 9
+	    },
+	    {
+	      "name": "香蕉",
+	      "code": 3515,
+	      "specs": "45kg",
+	      "retail_price": 92.22,
+	      "buy_price": 92.3,
+	      "num": 332,
+	      "company": 2
+	    },
+	    {
+	      "name": "青菜",
+	      "code": 3516,
+	      "specs": "150g",
+	      "retail_price": 74.7,
+	      "buy_price": 96.83,
+	      "num": 428,
+	      "company": 8
+	    },
+	    {
+	      "name": "西瓜",
+	      "code": 3517,
+	      "specs": "2kg",
+	      "retail_price": 40.5,
+	      "buy_price": 88.6,
+	      "num": 222,
+	      "company": 1
+	    },
+	    {
+	      "name": "哈密瓜",
+	      "code": 3518,
+	      "specs": "150g",
+	      "retail_price": 32.2,
+	      "buy_price": 61.87,
+	      "num": 422,
+	      "company": 2
+	    },
+	    {
+	      "name": "青菜",
+	      "code": 3519,
+	      "specs": "45kg",
+	      "retail_price": 29.1,
+	      "buy_price": 76.68,
+	      "num": 132,
+	      "company": 5
+	    },
+	    {
+	      "name": "西瓜",
+	      "code": 3520,
+	      "specs": "2kg",
+	      "retail_price": 83.7,
+	      "buy_price": 51.4,
+	      "num": 270,
+	      "company": 9
+	    }
+	  ],
+	  "staff": [
+	      {
+	        "username": "Linda",
+	        "name": "于刚",
+	        "age": 46,
+	        "phone": "14049243833",
+	        "salary": 19763,
+	        "createtime": "1984-05-16"
+	      },
+	      {
+	        "username": "Richard",
+	        "name": "郑强",
+	        "age": 35,
+	        "phone": "14904358772",
+	        "salary": 18294,
+	        "createtime": "2001-01-22"
+	      },
+	      {
+	        "username": "Joseph",
+	        "name": "彭杰",
+	        "age": 37,
+	        "phone": "13619717211",
+	        "salary": 18535,
+	        "createtime": "1983-07-06"
+	      },
+	      {
+	        "username": "Donald",
+	        "name": "方刚",
+	        "age": 49,
+	        "phone": "14831776506",
+	        "salary": 17613,
+	        "createtime": "1997-10-14"
+	      },
+	      {
+	        "username": "Edward",
+	        "name": "谭桂英",
+	        "age": 33,
+	        "phone": "12332221118",
+	        "salary": 11173,
+	        "createtime": "2001-11-13"
+	      },
+	      {
+	        "username": "Brenda",
+	        "name": "廖杰",
+	        "age": 22,
+	        "phone": "14106202821",
+	        "salary": 9133,
+	        "createtime": "2020-01-09"
+	      },
+	      {
+	        "username": "Deborah",
+	        "name": "夏敏",
+	        "age": 30,
+	        "phone": "12793742351",
+	        "salary": 19558,
+	        "createtime": "1981-02-28"
+	      },
+	      {
+	        "username": "Donald",
+	        "name": "任刚",
+	        "age": 39,
+	        "phone": "13868434415",
+	        "salary": 9096,
+	        "createtime": "2019-09-21"
+	      },
+	      {
+	        "username": "Dorothy",
+	        "name": "曾敏",
+	        "age": 41,
+	        "phone": "13521365778",
+	        "salary": 18644,
+	        "createtime": "1998-11-05"
+	      },
+	      {
+	        "username": "Sarah",
+	        "name": "陆强",
+	        "age": 22,
+	        "phone": "14188323850",
+	        "salary": 5263,
+	        "createtime": "2017-09-23"
+	      },
+	      {
+	        "username": "Scott",
+	        "name": "毛强",
+	        "age": 49,
+	        "phone": "14494050852",
+	        "salary": 10026,
+	        "createtime": "1986-03-15"
+	      },
+	      {
+	        "username": "Mary",
+	        "name": "汤敏",
+	        "age": 39,
+	        "phone": "12499432426",
+	        "salary": 15696,
+	        "createtime": "2016-04-30"
+	      },
+	      {
+	        "username": "Ronald",
+	        "name": "汪秀英",
+	        "age": 22,
+	        "phone": "15752132668",
+	        "salary": 4062,
+	        "createtime": "2012-09-20"
+	      },
+	      {
+	        "username": "Thomas",
+	        "name": "冯娟",
+	        "age": 45,
+	        "phone": "12553548110",
+	        "salary": 18831,
+	        "createtime": "2007-04-29"
+	      },
+	      {
+	        "username": "Kenneth",
+	        "name": "卢伟",
+	        "age": 38,
+	        "phone": "15943780155",
+	        "salary": 4977,
+	        "createtime": "1975-11-06"
+	      },
+	      {
+	        "username": "Brian",
+	        "name": "姚桂英",
+	        "age": 45,
+	        "phone": "13482003326",
+	        "salary": 8801,
+	        "createtime": "1976-06-19"
+	      },
+	      {
+	        "username": "Angela",
+	        "name": "万娟",
+	        "age": 33,
+	        "phone": "14421545951",
+	        "salary": 7339,
+	        "createtime": "1988-08-12"
+	      },
+	      {
+	        "username": "Brian",
+	        "name": "郝杰",
+	        "age": 33,
+	        "phone": "14426747057",
+	        "salary": 19054,
+	        "createtime": "1997-02-03"
+	      },
+	      {
+	        "username": "Jessica",
+	        "name": "蔡超",
+	        "age": 35,
+	        "phone": "12931953555",
+	        "salary": 19348,
+	        "createtime": "2019-04-08"
+	      },
+	      {
+	        "username": "Paul",
+	        "name": "秦芳",
+	        "age": 30,
+	        "phone": "13353858072",
+	        "salary": 8408,
+	        "createtime": "2006-12-11"
+	      }
+	    ]
+}
